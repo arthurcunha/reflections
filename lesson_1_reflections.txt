@@ -27,5 +27,3 @@ Do modo que eu possa voltar a vontade para versões anteriores.
 7 - Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
 
 Quero usar o o Git para fazer o versionamento de meus programas.
-
-aa
