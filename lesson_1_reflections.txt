@@ -1,0 +1,29 @@
+1 - Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
+
+Facilita na procura de palavras escritas de formas diferentes, palavras adicionadas ou retiradas que resultaram no bug.
+
+2 - Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais efienciente no longo prazo?
+
+Gera a possibilidade de autalizar um programa com a segurança de poder desfazer a atualização quando quiser.
+
+3 - Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento automático de versões, como no Google Docs?
+
+No salvamento manual pode-se escolher o momento para se salvar quando achar mais importante, porém gera mais trabalho toda vez que alterar algo e tem a possibilidade de esquecer de salvar.
+No salvamento automático sempre salvará quando fizer uma alteração, porém irá gerar muitas versões salvas que complicara na hora de procurar uma versão sem a alteração.
+
+4 - Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit, enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
+
+Para deixar mais organizado no momento de recuperação ou comparação das versôes.
+
+5 - Como usar os comandos git log e git diff para visualizar o histórico dos arquivos?
+
+O comando git log serve para mostrar todas as alterações que foram salvas e seus respectivos IDs.
+O comando gir diff serve para comparar as alterações pelos IDs.
+
+6 - De que modo o controle de versão pode dar a você mais segurança para fazer alterações que podem danificar algo?
+
+Do modo que eu possa voltar a vontade para versões anteriores.
+
+7 - Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
+
+Quero usar o o Git para fazer o versionamento de meus programas.
